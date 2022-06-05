@@ -1,4 +1,4 @@
-# MAPBOX API wrapper
+# MAPBOX API WRAPPER
 
 License: MIT
 
